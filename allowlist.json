@@ -1,6 +1,6 @@
 [
     {
-      "ModuleId": "lilypad-tech/cowsay",
+      "ModuleId": "lilypad-module-cowsay",
       "Version": "v0.0.4",
       "Enabled": true
     },
